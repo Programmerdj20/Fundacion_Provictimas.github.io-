@@ -1,0 +1,25 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.np {
+  background-color: #e3debb;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgba(5, 7, 12, 0.7), rgba(5, 7, 12, 0.7)),
+    url(../Assest/F-NP.png);
+}
+
+h1,
+h3,
+p {
+  color: white;
+}
+
+h5 {
+  color: #f37910;
+}
+
+.card {
+  background: none;
+}
